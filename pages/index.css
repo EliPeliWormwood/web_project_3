@@ -1,2 +1,9 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/root/root.css);
+@import url(../blocks/header/__header.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__overlay/header__overlay.css);
+@import url(../blocks/header/__overlay/__img/header__img.css);
+@import url(../blocks/header/__overlay/__img-overlay/header__img-overlay.css);
