@@ -1,7 +1,6 @@
 .intro__quote {
-  max-width: 720px;
-  min-height: 102px;
-  line-height: 34px;
+  max-width: 90%;
+  line-height: 1.4;
   font-size: 24px;
   margin: 0 0 10px;
 }

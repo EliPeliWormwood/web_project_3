@@ -1,0 +1,6 @@
+.intro__description {
+ max-width: 80%;
+ display: flex;
+ flex-direction: column;
+ margin-top: 92px;
+ }

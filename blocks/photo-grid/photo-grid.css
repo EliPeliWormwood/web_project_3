@@ -1,23 +1,4 @@
 .photo-grid {
-max-width: 1184px;
-max-height: 442px;
+max-width: 92%;
 margin: 118px auto 92px;
-}
-
-.photos {
-max-width: 100%;
-display: grid;
-grid-template-columns: 1fr 1fr 1fr 1fr;
-grid-template-rows: 1fr 1fr;
-grid-gap: 16px 16px;
-padding: 0px;
-}
-
-.grid-photos {
-list-style-type: none;
-}
-
-.grid-photo {
-width: 284px;
-height: 213px;
 }
