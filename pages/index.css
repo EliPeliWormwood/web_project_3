@@ -10,3 +10,8 @@
 @import url(../blocks/header/__overlay/__img/header__img.css);
 @import url(../blocks/header/__overlay/__img-overlay/header__img-overlay.css);
 @import url(../blocks/description/description.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__quote/intro__quote.css);
+@import url(../blocks/intro/__quote-author/intro__quote-author.css);
+@import url(../blocks/intro/__main-text/intro__main-text.css);
