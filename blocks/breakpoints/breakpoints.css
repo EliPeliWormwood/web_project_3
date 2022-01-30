@@ -3,6 +3,10 @@
   .header__subtitle {
     margin-bottom: 34x;
   }
+
+  .header__title {
+    max-width: 100%;
+  }
   .intro__description {
     margin-top: 88px;
     max-width: 100%;
@@ -66,6 +70,7 @@
     font-size: 16px;
   }
   .header__title {
+    max-width: 100%;
     font-size: 40px;
     margin: 51px 0 16px;
   }
