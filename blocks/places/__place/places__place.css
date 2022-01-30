@@ -1,11 +1,11 @@
 .places__place {
-    display: grid;
-    grid-template-areas: "title  artist"
+  display: grid;
+  grid-template-areas: "title  artist"
                          "image  description"
                          "button description";
-    grid-template-columns: 1fr 1.05fr;
-    grid-auto-rows: auto auto 1fr;
-    gap: 48px 40px;
-    margin-top: 80px;
+  grid-template-columns: 1fr 1.05fr;
+  grid-auto-rows: auto auto 1fr;
+  gap: 48px 40px;
+  margin-top: 80px;
 }
 

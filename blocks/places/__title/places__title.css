@@ -1,9 +1,9 @@
 .places__title {
-    font-size: 72px;
-    line-height: 1.05;
-    align-self: end;
-    margin-top: 0;
-    margin-bottom: 0;
-    grid-area: title;
+  font-size: 72px;
+  line-height: 1.05;
+  align-self: end;
+  margin-top: 0;
+  margin-bottom: 0;
+  grid-area: title;
 }
 
