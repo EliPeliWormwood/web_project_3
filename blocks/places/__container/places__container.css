@@ -1,4 +1,19 @@
 .places__container {
     list-style-type: none;
     padding-left: 0;
+    min-width: 320px;
+}
+
+@media screen and (min-width: 460px) and (max-width: 984px) {
+    .places__container {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+}
+
+@media screen and (max-width: 459px) {
+    .places__container {
+        margin-left: 0;
+        margin-right: 0;
+    }
 }

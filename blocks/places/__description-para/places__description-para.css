@@ -1,6 +1,14 @@
 .places__description-para {
     font-size: 18px;
     line-height: 1.6;
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 984px) {
+    .places__description-para {
+        font-size: 16px;
+    }
 }
 
 .places__description-para:first-of-type {
