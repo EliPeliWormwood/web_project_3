@@ -1,0 +1,16 @@
+.cover__subtitle {
+    max-width: 280px;
+    margin: 34px 0 34px;
+    font-size: 18px;
+    line-height: 1.2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    
+    
+}
+
+.span {
+
+}
