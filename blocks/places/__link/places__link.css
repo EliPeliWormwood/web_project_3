@@ -5,8 +5,3 @@
   grid-area: button;
 }
 
-@media screen and (max-width: 459px) {
-  .places__link {
-      justify-self: center;
-  }
-}

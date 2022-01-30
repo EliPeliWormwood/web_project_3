@@ -5,12 +5,3 @@
     margin-bottom: 0;
 }
 
-@media screen and (max-width: 984px) {
-    .places__description-para {
-        font-size: 16px;
-    }
-}
-
-.places__description-para:first-of-type {
-    margin-top: 0px;
-}

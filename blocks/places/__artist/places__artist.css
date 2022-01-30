@@ -3,9 +3,3 @@
     grid-area: artist;
 }
 
-@media screen and (max-width: 459px) {
-    .places__artist {
-        margin-left: 16px;
-        margin-right: 16px;
-    }
-}
