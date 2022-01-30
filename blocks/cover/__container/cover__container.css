@@ -1,11 +1,9 @@
 .cover__container {
-    max-width: 1184px;
-    margin: 105px auto 0;
-    position: relative;
-    text-align: center;
-
-  }
-
-  .cover__container:hover > .cover__background-image {
-    opacity: 0.3;
-  }
+  display: block;
+  width: 100%;
+  height: 740px;
+  background-image: url("../../../images/cover/cover-background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;    
+}
