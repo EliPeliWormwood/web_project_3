@@ -12,3 +12,4 @@ This is a project that showcases the hometowns of some of Practicum's employees.
 
 **GitHub pages**
   
+https://elipeliwormwood.github.io/web_project_3/
