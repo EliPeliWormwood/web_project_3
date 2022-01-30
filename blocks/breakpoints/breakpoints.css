@@ -50,9 +50,6 @@
   .places__description-paragraph {
     font-size: 16px;
   }
-  .places__link {
-    justify-self: center;
-  }
 
   .cover {
     max-width: 100%;
@@ -137,6 +134,9 @@
   }
   .places__description-paragraph:first-of-type {
     margin-top: 0px;
+  }
+  .places__link {
+    justify-self: center;
   }
 
   .cover {
