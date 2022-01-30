@@ -3,5 +3,6 @@
   height: 22px;
   padding: 13px 20px;
   grid-area: button;
+  justify-self: center;
 }
 
