@@ -4,6 +4,13 @@
   z-index: 3;
 }
 
+@media screen and (max-width: 459px) {
+  .logo {
+    max-width: 200px;
+    margin: 24px auto 0;
+  }
+ 
+}
 
 
 
