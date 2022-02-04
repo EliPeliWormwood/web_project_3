@@ -19,6 +19,6 @@
   .lead__title {
     max-width: 100%;
     font-size: 40px;
-    margin: 51px 0 16px;
+    margin: 51px auto 16px;
   }
 }
