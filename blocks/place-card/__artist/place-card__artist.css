@@ -1,10 +1,10 @@
-.places__artist {
+.place-card__artist {
   align-self: end;
   grid-area: artist;
 }
 
 @media screen and (max-width: 459px) {
-  .places__artist {
+  .place-card__artist {
     margin-left: 16px;
     margin-right: 16px;
   }

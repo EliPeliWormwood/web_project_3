@@ -2,19 +2,16 @@
  max-width: 80%;
  display: flex;
  flex-direction: column;
- margin-top: 92px;
  }
 
  @media screen and (min-width: 460px) and (max-width: 984px) {
    .intro__description {
-    margin-top: 88px;
     max-width: 100%;
   }
  }
 
  @media screen and (max-width: 459px) {
   .intro__description {
-    margin-top: 64px;
     max-width: 100%;
   }
 }

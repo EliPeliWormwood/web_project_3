@@ -1,12 +1,13 @@
 .cover__info {
-  position: absolute;
+  /*position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);*/
 }
 
 @media screen and (max-width: 459px) {
   .cover__info {
     width: 280px;
+    margin-bottom: 80%;
   }
 }

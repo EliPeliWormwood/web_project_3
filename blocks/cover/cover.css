@@ -4,7 +4,7 @@
   position: relative;
 }
 
-.cover:hover > .cover__container {
+.cover:hover > .cover__container::before {
   opacity: 0.3;
 }
 
