@@ -1,16 +1,10 @@
 .intro__description {
- max-width: 80%;
- display: flex;
- flex-direction: column;
- }
+  max-width: 80%;
+  display: flex;
+  flex-direction: column;
+}
 
- @media screen and (min-width: 460px) and (max-width: 984px) {
-   .intro__description {
-    max-width: 100%;
-  }
- }
-
- @media screen and (max-width: 459px) {
+@media screen and (max-width: 984px) {
   .intro__description {
     max-width: 100%;
   }

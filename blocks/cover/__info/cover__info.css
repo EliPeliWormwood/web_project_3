@@ -1,7 +1,12 @@
+.cover__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
 
-@media screen and (max-width: 459px) {
+@media screen and (max-width: 545px) {
   .cover__info {
-    width: 280px;
     margin-bottom: 80%;
   }
 }

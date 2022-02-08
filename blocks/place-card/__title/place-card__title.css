@@ -8,17 +8,16 @@
   grid-area: title;
 }
 
-@media screen and (min-width: 460px) and (max-width: 984px) {
+@media screen and (max-width: 984px) {
   .place-card__title {
     font-size: 42px;
     line-height: 1.1;
   }
 }
 
-@media screen and (max-width: 459px) {
+@media screen and (max-width: 545px) {
   .place-card__title {
     font-size: 32px;
-    line-height: 1.1;
     margin-left: 16px;
     margin-right: 16px;
   }

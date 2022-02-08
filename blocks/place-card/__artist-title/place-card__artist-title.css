@@ -1,8 +1,9 @@
 .place-card__artist-title {
+  color: #aaaaaa;
   font-size: 12px;
   font-weight: 400;
-  line-height: 1.2px;
+  line-height: 1.2;
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  margin-bottom: 8px;
+  margin: 0 0 8px;
 }

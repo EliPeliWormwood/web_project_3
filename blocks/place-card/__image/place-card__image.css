@@ -1,7 +1,11 @@
 .place-card__image {
   grid-area: image;
-  max-width: 460px;
-  max-height: 460px;
-  width: 100%;
+  max-width: 100%;
   height: auto;
+}
+
+@media screen and (max-width: 545px) {
+  .place-card__image {
+    margin: 0 auto;
+  }
 }

@@ -5,9 +5,7 @@
   grid-area: button;
 }
 
-
-
-@media screen and (max-width: 459px) {
+@media screen and (max-width: 545px) {
   .place-card__link {
     justify-self: center;
     padding: 13px 40px;
