@@ -1,6 +1,6 @@
 .cover__container {
   width: 100%;
-  height: 740px;
+  min-height: 740px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,14 +24,29 @@
   z-index: -1;
 }
 
-.cover__container:hover::before {
+.cover__container::after {
+  width: 100%;
+  height: 100%;
+  content: "";
+  background-color: #2a2c2f;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  z-index: 0;
   opacity: 0.3;
+}
+
+.cover__container:hover::after {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 545px) {
   .cover__container {
     width: 100%;
-    height: 0;
-    padding-top: 80%;
+    min-height: 254px;
   }
 }

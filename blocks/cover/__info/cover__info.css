@@ -3,10 +3,6 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  z-index: 2;
 }
 
-@media screen and (max-width: 545px) {
-  .cover__info {
-    margin-bottom: 80%;
-  }
-}
